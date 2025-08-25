@@ -20,7 +20,7 @@ JavaSE-17とEclipse IDEを使って開発しました。
 
 1.  このGitHubリポジトリをローカルにクローンします。
     ```bash
-    git clone [https://github.com/](https://github.com/)[summer-543]/[リポジトリ名].git
+    git clone [https://github.com/](https://github.com/)[summer-543]/[Klondike_Java].git
     ```
 2.  Eclipse IDEを起動します。
 3.  メニューバーから「File」>「Import」を選択し、「General」>「Existing Projects into Workspace」を選んで「Next」をクリックします。
